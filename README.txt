@@ -3,6 +3,15 @@ minus9999_GIS_Data_Cleaner
 
 🧼 This desktop tool is designed to help GIS professionals and researchers clean spatial datasets by identifying and correcting -9999 values, which typically represent missing or error data in geospatial layers.
 
+## 📦 Download Software
+
+You can download the latest release (.exe for Windows) from:
+
+👉 [Download -9999 GIS Data Cleaner v1.0](https://github.com/sayantanonfire/-9999-GIS-Data-Cleaner/releases/tag/v1.0)
+
+No installation needed. Just double-click the `.exe` to run.
+
+
 Developed by:
 Mr. Sayantan Mandal (PhD Research Scholar, Department of Geography, Delhi School of Economics, University of Delhi)
 📧 sayantaninfire@gmail.com
