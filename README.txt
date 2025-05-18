@@ -14,7 +14,7 @@ No installation needed. Just double-click the `.exe` to run.
 
 Developed by:
 Mr. Sayantan Mandal (PhD Research Scholar, Department of Geography, Delhi School of Economics, University of Delhi)
-📧 sayantaninfire@gmail.com
+📧 sayantanonfire@gmail.com
 
 ----------------------------------------
 📂 Supported File Formats:
@@ -64,7 +64,7 @@ These maps are saved automatically in PNG format alongside your input file (in t
 This tool is provided "as-is" for research and educational purposes. You are free to use, cite, and share it — but please credit the developer.
 
 For bug reports, feature requests, or collaboration inquiries:
-📨 Email: sayantaninfire@gmail.com
+📨 Email: sayantanonfire@gmail.com
 
 Thank you for using minus9999_GIS_Data_Cleaner!
 
